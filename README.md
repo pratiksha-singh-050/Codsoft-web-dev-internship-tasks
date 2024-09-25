@@ -19,3 +19,6 @@ bash
 Copy code
 cd Codsoft-web-dev-internship-tasks/portfolio_website
 Open the index.html file in your preferred browser.
+  this is the link of my live website
+
+  https://pratiksha-singh.netlify.app/
